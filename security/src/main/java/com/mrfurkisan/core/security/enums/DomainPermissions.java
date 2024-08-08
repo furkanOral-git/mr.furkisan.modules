@@ -1,0 +1,29 @@
+package com.mrfurkisan.core.security.enums;
+
+public enum DomainPermissions {
+    
+    USER,
+    PRODUCT_MANAGEMENT,
+    EMPLOYEE_MANAGEMENT,
+    STOCK_MANAGEMENT,
+    USER_MANAGEMENT,
+    ACOUNT_MANAGEMENT,
+    CONTENT_MANAGEMENT,
+    PAYMENT_MANAGEMENT,
+    CARGO_MANAGEMENT,
+    PROFILE_MANAGEMENT,
+    CUSTOMER_MANAGEMENT,
+    PRODUCT_OWNER,
+    DEMO_OWNER,
+    SUBSCRIBER,
+    MODARATOR,
+    OPERATOR,
+    INTERM,
+    JUNIOUR,
+    SENIOR,
+    DOMAIN1,
+    DOMAIN2,
+    DOMAIN3,
+    DOMAIN4,
+    
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "contracts"
+		},
+		{
+			"path": "core"
+		},
+		{
+			"path": "security"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
